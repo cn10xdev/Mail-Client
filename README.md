@@ -1,14 +1,14 @@
 # <img src="https://pclub.in/images/pclub.png" alt="Logo" width="50" />   IITK MAIL CLIENT
 
-Welcome to our Project which we have built a mail client service which allows you to send mail through SMTP service and receive them through IMAP  service using enough_mail api. and we have done this in flutter and backend is written in dart.
+Welcome to our Project which we have built a mail client service, it you to send mail through SMTP service and receive them through IMAP  service using enough_mail api. and we have done this in flutter and backend is written in dart.
 ## Why Flutter?
-Flutter is an open-source UI software development kit created by Google. It is used to build  applications for mobile, web, and desktop from a single codebase. Flutter apps are written in Dart, a language optimized for fast apps on any platform.
+Flutter is an open-source UI software development kit created by Google. It is used to build applications for mobile, web, and desktop from a single codebase. Flutter apps are written in Dart, a language optimized for fast apps on any platform.
 <h3>Reasons for using flutter</h3>
 
 *  Flutter allows the creation of apps for Android, iOS, Web, Linux, macOS and Windows from a single codebase.
 *  It allows the developers to see the result of code change almost instantly without restarting the app.
 *  Google provides extensive and detailed documentation, tutorials, and sample projects, making it easier for developers to learn and master Flutter.
-*  Excellent support in popular IDEs like Android Studio, and Visual Studio Code, with tools for debugging, profiling, and more.
+*  Excellent support in popular IDEs like Android Studio, and Visual Studio Code, with debugging, profiling, and more tools.
 *  
 ## Why Dart?
 Dart is a programming language developed by Google. It was designed with the goal of being easy to learn, fast in execution, and capable of creating high-performance applications for a variety of platforms.
